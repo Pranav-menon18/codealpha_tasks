@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InspireMe Quotes</string>
+    <string name="inspire_me_quotes">InspireMe Quotes</string>
+    <string name="dummy_quote">Its not what you look at that matters, it\'s what you see.</string>
+    <string name="dummy_author">- Henry David Thoreau</string>
+    <string name="get_random_quote_text">Get Random Quote</string>
+    <string name="share_quote_text">Share Quote </string>
+</resources>
